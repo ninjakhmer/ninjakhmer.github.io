@@ -1,0 +1,80 @@
+{
+  "section": [
+    {
+      "sectionid": 1,
+      "sectionname": "MECHANICAL"
+    },
+    {
+      "sectionid": 2,
+      "sectionname": "ELECTRICAL"
+    },
+    {
+      "sectionid": 3,
+      "sectionname": "PUBLIC HEALTH"
+    },
+    {
+      "sectionid": 4,
+      "sectionname": "FIRE PROTECTION"
+    },
+    {
+      "sectionid": 5,
+      "sectionname": "ICT"
+    },
+    {
+      "sectionid": 6,
+      "sectionname": "BWD"
+    },
+    {
+      "sectionid": 7,
+      "sectionname": "MECHANICAL"
+    },
+    {
+      "sectionid": 8,
+      "sectionname": "FIRE PROTECTION"
+    },
+    {
+      "sectionid": 9,
+      "sectionname": "PUBLIC HEALTH"
+    },
+    {
+      "sectionid": 10,
+      "sectionname": "ELECTRICAL"
+    },
+    {
+      "sectionid": 11,
+      "sectionname": "ICT&FAS"
+    },
+    {
+      "sectionid": 12,
+      "sectionname": "BWD"
+    },
+    {
+      "sectionid": 13,
+      "sectionname": "MECHANICAL"
+    },
+    {
+      "sectionid": 14,
+      "sectionname": "PUBLIC HEALTH"
+    },
+    {
+      "sectionid": 15,
+      "sectionname": "ELECTRICAL"
+    },
+    {
+      "sectionid": 16,
+      "sectionname": "ICT&FAS"
+    },
+    {
+      "sectionid": 17,
+      "sectionname": "MECHANICAL"
+    },
+    {
+      "sectionid": 18,
+      "sectionname": "PUBLIC HEALTH"
+    },
+    {
+      "sectionid": 19,
+      "sectionname": "ELECTRICAL"
+    }
+  ]
+}
